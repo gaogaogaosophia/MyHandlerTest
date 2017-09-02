@@ -1,0 +1,2 @@
+# MyHandlerTest
+创建了一个用于测试Handler如何在线程间通信的类 MainActivity；分别用于测试handler如何在UI线程和子线程如何通信，以及子线程如何与子线程的子线程进行通信。
